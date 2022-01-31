@@ -44,6 +44,12 @@ const Button = styled.button`
     border: none;
     letter-spacing: 2px;
     cursor: pointer;
+
+    &:hover {
+        background-color: white;
+        color: blue;
+        border: 1px solid blue;
+    };
 `;
 
 const Contact = styled.div`

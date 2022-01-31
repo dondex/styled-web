@@ -52,7 +52,7 @@ const Button = styled.button`
     &:hover {
         background-color: white;
         color: crimson;
-        
+
     }
 `;
 
