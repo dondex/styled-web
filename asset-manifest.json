@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/styled-web/static/js/main.8fbf3631.js",
+    "static/media/woman.png": "/styled-web/static/media/woman.20f33c4ae2ce5bdf9b3c.png",
+    "index.html": "/styled-web/index.html",
+    "main.8fbf3631.js.map": "/styled-web/static/js/main.8fbf3631.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8fbf3631.js"
+  ]
+}
