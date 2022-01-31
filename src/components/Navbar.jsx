@@ -34,6 +34,10 @@ const MenuItem = styled.li`
     color: gray;
     list-style: none;
     cursor: pointer;
+
+    &:hover {
+        color: crimson;
+    };
 `;
 
 const Button = styled.button`
@@ -44,6 +48,12 @@ const Button = styled.button`
     font-weight: bold;
     border-radius: 5px;
     cursor: pointer;
+
+    &:hover {
+        background-color: white;
+        color: crimson;
+        
+    }
 `;
 
 const Navbar = () => {
